@@ -24,7 +24,7 @@ const Contact = () => (
         {/* Email */}
         <div className="flex items-center justify-center space-x-3">
           <FaEnvelope className="text-blue-500 text-xl" />
-          <a href="mailto:chenhao6@andrew.cmu.edu" className="text-blue-600 hover:underline">
+          <a href="mailto:BarryLi159@outlook.com" className="text-blue-600 hover:underline">
             chenhao6@andrew.cmu.edu
           </a>
         </div>
