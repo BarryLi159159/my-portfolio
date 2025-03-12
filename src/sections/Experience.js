@@ -5,7 +5,7 @@ const experiences = [
   {
     title: "Researcher - AI Safety Lab",
     company: "Carnegie Mellon University",
-    duration: "Aug 2024 - Present",
+    duration: "Dec 2024 - Present",
     description:
       "Conducting research on reinforcement learning and imitation learning for autonomous robots.",
     logo: "https://m.media-amazon.com/images/I/61FfobmZ6ML._AC_SL1000_.jpg",
