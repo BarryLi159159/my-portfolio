@@ -27,12 +27,11 @@ const experiences = [
     logo: "https://mms.businesswire.com/media/20241114654299/en/2305476/23/WPI%2BSquare%2BLogo.jpg",
   },
   {
-    title: "Mechanical Engineer Intern",
+    title: "Automation Engineer Intern",
     company: "Autovigle LLC",
-    duration: "May 2021 - Aug 2021",
+    duration: "May 2024 - Aug 2024",
     description:
-      "Designed and developed a vision-based vehicle license plate recognition system. Built and deployed a WeChat Mini Program for user interaction.",
-    logo: "https://p3-passport.byteacctimg.com/img/user-avatar/ce427e5c3c1966b2da686e5d2cb21b9b~200x0.image",
+      "Worked on robotic automation solutions for automotive applications, focusing on mechanical design, motion control, and system optimization. ",
   },
   {
     title: "Intern",
