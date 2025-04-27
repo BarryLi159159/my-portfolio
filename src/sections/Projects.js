@@ -9,13 +9,13 @@ const faceImg = require("../sections/assets/face.jpg");
 const catFeederImg = require("../sections/assets/catfeeder.jpg");
 const endoscopeImg = require("../sections/assets/endoscope.jpg");
 const roboticArmImg = require("../sections/assets/6-DOF Robotic Arm.jpg");
-// const smartPlantingImg = require("../sections/assets/smartPlanting.jpg");
+const smartPlantingImg = require("../sections/assets/smartPlanting.jpg");
 
 const projectCategories = ["All", "Robotics", "Classic Control", "Deep Learning", "Mechatronics", "Computer Vision"];
 
 const projects = [
   {
-    title: "Locoman RSS2025",
+    title: "Locoman (Publishing)",
     categories: ["Robotics", "Deep Learning"],
     image: locomanImg,
     description: "Locoman efficiently learns tasks such as picking up toys and cleaning shoe racks.",
@@ -64,13 +64,13 @@ const projects = [
     description: "Redesigned and controlled a robotic arm (BCN3D) for pick-and-place tasks.",
     link: "https://github.com/BarryLi159159/ARM/blob/main/README.md"
   },
-  // {
-  //   title: "Smart Planting",
-  //   categories: ["Mechatronics"],
-  //   image: smartPlantingImg,
-  //   description: "Developed an IoT-based system for smart planting, enabling automated monitoring and control of environmental conditions.",
-  //   link: "https://docs.google.com/document/d/13_mBCXOkp7ocunKqvI5dWint5j9OXRDqT3v_8y5usy0/edit?tab=t.0"
-  // },
+  {
+    title: "Smart Planting",
+    categories: ["Mechatronics"],
+    image: smartPlantingImg,
+    description: "Developed an IoT-based system for smart planting, enabling automated monitoring and control of environmental conditions.",
+    link: "https://docs.google.com/document/d/13_mBCXOkp7ocunKqvI5dWint5j9OXRDqT3v_8y5usy0/edit?tab=t.0"
+  },
 
   {
     title: "Self-Driving Tesla Control",
@@ -80,13 +80,13 @@ const projects = [
     link: "https://github.com/BarryLi159159/control"
   },
 
-  // {
-  //   title: "UAV Stability",
-  //   categories: ["Classic Control"],
-  //   image: null,  // Update when available
-  //   description: "Designed an adaptive control system to augment an LQR-based MPC controller for a DJI UAV. The controller ensured stability during a 50% thrust loss in one motor while hovering.",
-  //   link: "https://github.com/BarryLi159159/control"
-  // },
+  {
+    title: "UAV Stability",
+    categories: ["Classic Control"],
+    image: null,  // Update when available
+    description: "Designed an adaptive control system to augment an LQR-based MPC controller for a DJI UAV. The controller ensured stability during a 50% thrust loss in one motor while hovering.",
+    link: "https://github.com/BarryLi159159/control"
+  },
 
 ];
 

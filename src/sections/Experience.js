@@ -11,12 +11,12 @@ const experiences = [
     logo: "https://m.media-amazon.com/images/I/61FfobmZ6ML._AC_SL1000_.jpg",
   },
   {
-    title: "Mechanical Engineer Intern",
+    title: "Automation Engineer Intern",
     company: "Autovigle LLC",
     duration: "May 2024 - Aug 2024",
     description:
-      "Worked on robotic automation solutions for automotive applications, focusing on mechanical design, motion control, and system optimization. Assisted in improving efficiency and precision through simulation, testing, and iterative design. Collaborated with cross-functional teams to integrate hardware and software solutions, enhancing overall system performance.",
-    logo: "https://p3-passport.byteacctimg.com/img/user-avatar/ce427e5c3c1966b2da686e5d2cb21b9b~200x0.image",
+      "Worked on robotic automation solutions for automotive applications, focusing on mechanical design, motion control, and system optimization. ",
+    logo: "https://www.google.com/imgres?q=cheguangjiao%20logo%20png&imgurl=http%3A%2F%2Fzhuanyehuanyou.com%2Fpublic%2Fstorage%2Ftopic%2F20240130%2F147272f83658c15f0a69486023d8f290.png&imgrefurl=http%3A%2F%2Fzhuanyehuanyou.com%2F&docid=_rKXDWCHbo1mtM&tbnid=01E3d_ZX5x_0bM&vet=12ahUKEwialPb6soOMAxX-wvACHUuDOk0QM3oECAwQAA..i&w=820&h=820&hcb=2&ved=2ahUKEwialPb6soOMAxX-wvACHUuDOk0QM3oECAwQAA",
   },
   {
     title: "Researcher - Surface Metrology Lab",
