@@ -4,10 +4,10 @@ import { motion, AnimatePresence } from "framer-motion";
 // Require images & videos for proper Webpack handling
 // const locomanImg = require("../sections/assets/locoman.jpg");
 // const catDetectVideo = require("../sections/assets/catdetect.mp4");
-// const handTrackingVideo = require("../sections/assets/Handtracking.mp4");
+const handTrackingVideo = require("../sections/assets/Handtracking.mp4");
 // const faceImg = require("../sections/assets/face.jpg");
 // const catFeederImg = require("../sections/assets/catfeeder.jpg");
-// const endoscopeImg = require("../sections/assets/endoscope.jpg");
+const endoscopeImg = require("../sections/assets/endoscope.jpg");
 // const roboticArmImg = require("../sections/assets/6-DOF Robotic Arm.jpg");
 
 // Project Data
