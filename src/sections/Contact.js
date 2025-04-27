@@ -52,7 +52,7 @@ const Contact = () => (
         </div>
       </div>
 
-      {/* Optional Resume Download Button */}
+      {/* Optional Resume Download Button
       <motion.a
         href="/assets/" // Replace with actual resume link
         download
@@ -61,7 +61,7 @@ const Contact = () => (
         whileTap={{ scale: 0.95 }}
       >
         Download Resume
-      </motion.a>
+      </motion.a> */}
 
       {/* Subtle Footer */}
       <div className="mt-12 text-gray-500 text-sm">
