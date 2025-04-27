@@ -8,7 +8,7 @@ const Home = () => (
     {/* Full-Width Landscape Image */}
     <div className="w-full h-2/5 md:h-1/2 overflow-hidden">
       <img
-        src="https://www.cmu.edu/admission/sites/default/files/styles/hero_panoramic_fallback/public/2022-01/Visit_Hero_Image_2_3.3.16.jpg.webp?itok=cjqGQ1Um" // Replace with your preferred image URL
+        src="https://www.cmu.edu/news/sites/default/files/styles/hero_full_width_tablet_2x/public/2023-03/rankings-2000x1000-min_0.jpg.webp?itok=X9mXg3rW" // Replace with your preferred image URL
         alt="Landscape"
         className="w-full h-full object-cover"
       />

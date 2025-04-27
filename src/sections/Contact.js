@@ -24,7 +24,7 @@ const Contact = () => (
         {/* Email */}
         <div className="flex items-center justify-center space-x-3">
           <FaEnvelope className="text-blue-500 text-xl" />
-          <a href="mailto:BarryLi159@outlook.com" className="text-blue-600 hover:underline">
+          <a href="mailto:chenhao6@andrew.cmu.edu" className="text-blue-600 hover:underline">
             chenhao6@andrew.cmu.edu
           </a>
         </div>
@@ -54,7 +54,7 @@ const Contact = () => (
 
       {/* Optional Resume Download Button */}
       <motion.a
-        href="/assets/" // Replace with actual resume link
+        href="/assets/CHENHAO LI .pdf" // Replace with actual resume link
         download
         className="mt-6 inline-block px-6 py-3 text-lg font-medium text-white bg-blue-500 rounded-lg shadow-md hover:bg-blue-600 transition"
         whileHover={{ scale: 1.05 }}
