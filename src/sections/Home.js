@@ -2,7 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { Link } from "react-scroll";
 import { FaEnvelope, FaGithub, FaLinkedin } from "react-icons/fa";
-import { Link as RouterLink } from "react-router-dom";
+// import { Link as RouterLink } from "react-router-dom";
 
 const Home = () => (
   <section id="home" className="h-screen flex flex-col text-center text-gray-900 bg-gray-100 relative">

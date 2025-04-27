@@ -1,6 +1,6 @@
 import React from "react";
-import { Link as RouterLink } from "react-router-dom";
-import { Link } from "react-scroll";
+// import { Link as RouterLink } from "react-router-dom";
+// import { Link } from "react-scroll";
 
 const Resume = () => (
   <section id="resume" className="min-h-screen flex flex-col items-center justify-center bg-white px-8 py-16">
