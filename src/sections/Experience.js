@@ -5,10 +5,34 @@ const experiences = [
   {
     title: "Researcher - AI Safety Lab",
     company: "Carnegie Mellon University",
-    duration: "Aug 2024 - Present",
+    duration: "Dec 2024 - Present",
     description:
       "Conducting research on reinforcement learning and imitation learning for autonomous robots.",
     logo: "https://m.media-amazon.com/images/I/61FfobmZ6ML._AC_SL1000_.jpg",
+  },
+  {
+    title: "Associate Engineer Intern - Robotic Software Engineer",
+    company: "Unitree Robotics",
+    duration: "Jul 2025 - Aug 2025",
+    description:
+      "Worked on trainning whole body control policies for a huamnoid g1 robot with imitation learning and reinforcement learning.  ",
+    logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYZu94DgFFnlkQ95kRfC4xLBaB7w3Wa1LEqw&s",
+  },
+  {
+    title: "Robotic Engineer Intern",
+    company: "SafeWorld",
+    duration: "May 2025 - Jun 2025",
+    description:
+      "Worked on robotic safty testing solutions.  ",
+    logo: "https://www.google.com/imgres?q=cheguangjiao%20logo%20png&imgurl=http%3A%2F%2Fzhuanyehuanyou.com%2Fpublic%2Fstorage%2Ftopic%2F20240130%2F147272f83658c15f0a69486023d8f290.png&imgrefurl=http%3A%2F%2Fzhuanyehuanyou.com%2F&docid=_rKXDWCHbo1mtM&tbnid=01E3d_ZX5x_0bM&vet=12ahUKEwialPb6soOMAxX-wvACHUuDOk0QM3oECAwQAA..i&w=820&h=820&hcb=2&ved=2ahUKEwialPb6soOMAxX-wvACHUuDOk0QM3oECAwQAA",
+  },
+  {
+    title: "Automation Engineer Intern",
+    company: "Cheguangjiao New Energy",
+    duration: "May 2024 - Aug 2024",
+    description:
+      "Worked on robotic automation solutions for recycling applications, focusing on mechanical design, motion control, and system optimization. ",
+    logo: "https://cheguangjiao.com/public/storage/topic/20240130/147272f83658c15f0a69486023d8f290.png",
   },
   {
     title: "Researcher - Surface Metrology Lab",
@@ -26,21 +50,14 @@ const experiences = [
       "Optimized fluid dynamics experiments and improved lab material procurement efficiency & quality.",
     logo: "https://mms.businesswire.com/media/20241114654299/en/2305476/23/WPI%2BSquare%2BLogo.jpg",
   },
-  {
-    title: "Mechanical Engineer Intern",
-    company: "Autovigle LLC",
-    duration: "May 2021 - Aug 2021",
-    description:
-      "Designed and developed a vision-based vehicle license plate recognition system. Built and deployed a WeChat Mini Program for user interaction.",
-    logo: "https://p3-passport.byteacctimg.com/img/user-avatar/ce427e5c3c1966b2da686e5d2cb21b9b~200x0.image",
-  },
+
   {
     title: "Intern",
     company: "Grandview Capital",
     duration: "Jun 2019 - Jul 2019",
     description:
       "Performed market research and data analysis on the smart speaker industry, evaluating consumer trends and technological advancements.",
-    logo: "https://media.licdn.com/dms/image/v2/D560BAQEfhLeYyaQI2g/company-logo_200_200/company-logo_200_200/0/1702602989216/statinggate_logo?e=1747267200&v=beta&t=AJBd78_8t5ckoL7ZMJgUR0UmKVM33bgPY0TU-B6-1oo",
+    logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8-eGlghVQ1ZRUDPAVhFF-De69prETAjy7Ww&s",
   },
 ];
 
